@@ -1,0 +1,22 @@
+
+
+-- Site do prof
+http://codilon.cwahi.net/ir.htm
+
+
+-- RSS do G1
+http://g1.globo.com/tecnologia/noticia/2012/11/siga-o-g1-por-rss.html
+
+
+-- Passando de RSS (XML) para JSON
+https://marcqualie.com/2011/03/xml-to-json-using-google-feed-api
+
+
+-- Usando a API do Google para fazer XML -> JSON
+http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=10&q=http://g1.globo.com/dynamo/rss2.xml
+
+
+-- Para exibir o JSON organizado
+http://jsbeautifier.org/
+
+
