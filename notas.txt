@@ -7,6 +7,14 @@ http://codilon.cwahi.net/ir.htm
 -- RSS do G1
 http://g1.globo.com/tecnologia/noticia/2012/11/siga-o-g1-por-rss.html
 
+http://g1.globo.com/dynamo/rss2.xml
+http://g1.globo.com/dynamo/tecnologia/rss2.xml
+http://g1.globo.com/dynamo/politica/rss2.xml
+http://g1.globo.com/dynamo/economia/rss2.xml
+http://g1.globo.com/dynamo/educacao/rss2.xml
+http://g1.globo.com/dynamo/musica/rss2.xml
+http://g1.globo.com/dynamo/natureza/rss2.xml
+
 
 -- Passando de RSS (XML) para JSON
 https://marcqualie.com/2011/03/xml-to-json-using-google-feed-api
